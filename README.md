@@ -8,7 +8,7 @@ Identifying fatigue is essential to prevent injuries from physical activity. Thi
 
 ### Method
 - EMG Signal Processing
-- Fatigue Detection
+- [Fatigue Detection using Multilayer Perceptron Neural Network (MLPNN)](https://github.com/punyarani/tugasakhir/blob/main/MLPNN_EMG%20Fatigue%20Detection.ipynb)
 
 ### Tools
 Python for Signal Processing, Data Cleaning, Data Transformation, and Machine Learning using TensorFlow Framework. IDEs include Google Colaboratory and Visual Studio Code.
